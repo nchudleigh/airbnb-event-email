@@ -1,4 +1,4 @@
-# AirBnb Event Email
+# Airbnb Event Email
 
 Use this email template to send out a fun event invite to your guests.
 Perfect as a fun way to invite your guests to your wedding, party, baby shower, or any other event.
